@@ -32,8 +32,8 @@
 ---
 
 ## 📊 **GitHub Stats & Activity**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samfash&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samfash&theme=radical)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samfash&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samfash&theme=radical)
 
 ---
 
