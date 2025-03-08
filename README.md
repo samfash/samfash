@@ -32,9 +32,13 @@
 ---
 
 ## 📊 **GitHub Stats & Activity**
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samfash&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=samfash&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samfash&theme=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=samfash&show_icons=true&theme=radical&count_private=true)
+
+## 🔥 **Streak Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samfash&theme=radical)
+
+## 📌 **Activity Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=samfash&theme=github)
 
 ---
 
